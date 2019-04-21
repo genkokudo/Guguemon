@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "Guguemon", "Guguemon\Guguemon.njsproj", "{8ABCCA79-55CE-45FF-A2D0-1C19555A78FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8ABCCA79-55CE-45FF-A2D0-1C19555A78FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ABCCA79-55CE-45FF-A2D0-1C19555A78FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ABCCA79-55CE-45FF-A2D0-1C19555A78FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ABCCA79-55CE-45FF-A2D0-1C19555A78FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C2B4B7D-D3A7-4576-A062-3F070512CF9D}
+	EndGlobalSection
+EndGlobal

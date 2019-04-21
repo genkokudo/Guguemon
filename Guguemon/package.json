@@ -1,0 +1,20 @@
+{
+  "name": "guguemon",
+  "version": "0.0.0",
+  "description": "Guguemon",
+  "main": "app.js",
+  "author": "",
+  "devDependencies": {
+    "@google/clasp": "^2.1.0",
+    "@types/node": "^8.0.14",
+    "tslint": "^5.16.0"
+  },
+  "dependencies": {
+    "@types/google-apps-script": "0.0.44"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "license": "ISC"
+}
